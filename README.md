@@ -84,6 +84,7 @@ data_bridge = {
 - Jangan pernah membagikan kunci pribadi Anda.
 - Pastikan file konfigurasi hanya diakses oleh Anda.
 - Gunakan jaringan testnet (seperti Sepolia) untuk pengujian sebelum menerapkan di mainnet.
+source: https://github.com/airdropinsiders/t3rn-bot
 
 ## Lisensi
 Proyek ini dilisensikan di bawah lisensi MIT. Anda bebas menggunakan, memodifikasi, dan mendistribusikannya.
