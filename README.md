@@ -75,12 +75,11 @@ labels = [
 ### `data_bridge.py`
 Contoh data bridge:
 ```nano data_bridge.py
-```
 data_bridge = {
     "OP - BASE": "0xDataForOPToBaseBridge",
     "BASE - OP": "0xDataForBaseToOPBridge"
 }
-
+```
 ## Catatan Keamanan
 - Jangan pernah membagikan kunci pribadi Anda.
 - Pastikan file konfigurasi hanya diakses oleh Anda.
